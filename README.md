@@ -1,7 +1,6 @@
 # 🛒 Basic E-Commerce App
 
-This is a modern, fast, and responsive **E-Commerce** web application built with the latest frontend technologies. It provides users with a seamless shopping experience, including product browsing and efficient cart management.
-
+This is a modern, fast, and responsive **E-Commerce** web application built with the latest frontend technologies. It provides users with a seamless shopping experience, including product browsing.
 ## 🚀 Tech Stack
 
 The project leverages a powerful suite of tools for performance and scalability:
