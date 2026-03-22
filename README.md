@@ -1,16 +1,51 @@
-# React + Vite
+🛒 Basic E-Commerce App
+This is a modern, fast, and responsive E-Commerce web application built with the latest frontend technologies. It provides users with a seamless shopping experience, including product browsing and efficient cart management.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🚀 Tech Stack
+The project leverages a powerful suite of tools for performance and scalability:
 
-Currently, two official plugins are available:
+Framework: React 19 (Latest Version)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Build Tool: Vite 8 (Beta) for ultra-fast development
 
-## React Compiler
+State Management: Redux Toolkit & React-Redux
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+UI Library: Material UI (MUI) for a polished design
 
-## Expanding the ESLint configuration
+Routing: React Router 7
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Data Fetching: Axios
+
+Icons: React Icons
+
+Linting: ESLint for code quality
+
+🛠️ Installation & Setup
+Follow these steps to get the project running on your local machine:
+
+Clone the repository:
+
+Bash
+git clone https://github.com/hypegeuse/Basic-E-Commerce-App.git
+Navigate to the project folder:
+
+Bash
+cd Basic-E-Commerce-App
+Install the dependencies:
+
+Bash
+npm install
+Start the development server:
+
+Bash
+npm run dev
+The application will be accessible at http://localhost:5173.
+
+📦 Project Scripts
+npm run dev: Starts the Vite development server.
+
+npm run build: Compiles the application for production.
+
+npm run lint: Analyzes the code for potential errors using ESLint.
+
+npm run preview: Previews the production build locally.
