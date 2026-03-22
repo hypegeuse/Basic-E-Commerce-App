@@ -1,0 +1,30 @@
+.logo {
+    width: 60px;
+    height: 60px;
+}
+
+.logo-text {
+    font-family: Arial, sans-serif;
+    font-size: 15px;
+    font-weight: 600;
+    margin-left: 10px;
+}
+
+.search-input {
+    border: none;
+    border-bottom: 1px solid lightgray;
+    padding: 5px 10px;
+    outline: none;
+    margin-right: 10px;
+}
+
+.icon {
+    font-size: 25px;
+    margin-right: 10px;
+
+}
+
+.icon:hover {
+    color: #007BFF;
+    cursor: pointer;
+}
